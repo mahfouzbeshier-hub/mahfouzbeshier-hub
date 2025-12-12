@@ -26,8 +26,7 @@
 - 💻 Skilled in **C++**, **Java**, **OOP**, **SQL**  
 - 🐧 Love exploring **Linux**, terminals, and open-source tools  
 - 🎬 Ask me about **PC building, tech, movies, or anything!**  
-- 📬 Telegram: **[Mahfouz](https://t.me/)**
-
+- 📬 Connect with me on LinkedIn: Mahfouz Beshier
 ---
 
 ## 🛠️ Tools & Technologies I Use
